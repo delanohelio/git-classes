@@ -1,4 +1,4 @@
-# Git Classes — Introdução a Git (20 aulas x 30min)
+# Git Classes — Introdução a Git
 
 Material para um minicurso de Git voltado a adolescentes do Ensino Médio Integrado de Programação para Internet. Curso prático, com exercícios guiados, imagens e desafios.
 

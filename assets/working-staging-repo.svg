@@ -1,0 +1,19 @@
+<svg width="640" height="280" viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Ciclo de vida do arquivo</text>
+  <rect x="20" y="60" width="180" height="80" fill="#243b55" stroke="#9ad1ff"/>
+  <rect x="230" y="60" width="180" height="80" fill="#243b55" stroke="#9ad1ff"/>
+  <rect x="440" y="60" width="180" height="80" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="40" y="100" fill="#cde3ff" font-size="14" font-family="Arial">Working Dir</text>
+  <text x="255" y="100" fill="#cde3ff" font-size="14" font-family="Arial">Staging</text>
+  <text x="485" y="100" fill="#cde3ff" font-size="14" font-family="Arial">Repositório</text>
+  <line x1="200" y1="100" x2="230" y2="100" stroke="#ffd166" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="410" y1="100" x2="440" y2="100" stroke="#ffd166" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="185" y="90" fill="#ffd166" font-size="12" font-family="Arial">git add</text>
+  <text x="395" y="90" fill="#ffd166" font-size="12" font-family="Arial">git commit</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#ffd166"/>
+    </marker>
+  </defs>
+</svg>

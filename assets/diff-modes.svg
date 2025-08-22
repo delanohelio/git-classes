@@ -1,0 +1,7 @@
+<svg width="660" height="260" viewBox="0 0 660 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="660" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18" font-family="Arial">Modos de Diff</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">• working vs index</text>
+  <text x="40" y="120" fill="#cde3ff" font-size="13">• index vs HEAD (--staged)</text>
+  <text x="40" y="150" fill="#cde3ff" font-size="13">• commit vs commit</text>
+</svg>

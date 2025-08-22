@@ -1,0 +1,20 @@
+<svg width="640" height="280" viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Remotos e GitHub</text>
+  <rect x="60" y="90" width="200" height="120" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="90" y="160" fill="#cde3ff" font-size="14">Repositório local</text>
+  <rect x="380" y="60" width="200" height="160" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="430" y="140" fill="#cde3ff" font-size="14">GitHub (origin)</text>
+  <line x1="260" y1="150" x2="380" y2="140" stroke="#ffd166" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="380" y1="160" x2="260" y2="170" stroke="#66ffb3" stroke-width="3" marker-end="url(#arrow2)"/>
+  <text x="290" y="130" fill="#ffd166" font-size="12">git push</text>
+  <text x="290" y="190" fill="#66ffb3" font-size="12">git pull</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#ffd166"/>
+    </marker>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#66ffb3"/>
+    </marker>
+  </defs>
+</svg>

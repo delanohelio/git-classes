@@ -1,0 +1,15 @@
+<svg width="640" height="320" viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="320" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Fluxo de Pull Request</text>
+  <text x="60" y="80" fill="#cde3ff" font-size="14">1) Criar branch</text>
+  <text x="60" y="110" fill="#cde3ff" font-size="14">2) Commitar mudanças</text>
+  <text x="60" y="140" fill="#cde3ff" font-size="14">3) Push para origin</text>
+  <text x="60" y="170" fill="#cde3ff" font-size="14">4) Abrir PR no GitHub</text>
+  <text x="60" y="200" fill="#cde3ff" font-size="14">5) Revisão & Merge</text>
+  <line x1="40" y1="85" x2="40" y2="205" stroke="#9ad1ff" stroke-width="2"/>
+  <circle cx="40" cy="85" r="4" fill="#ffd166"/>
+  <circle cx="40" cy="115" r="4" fill="#ffd166"/>
+  <circle cx="40" cy="145" r="4" fill="#ffd166"/>
+  <circle cx="40" cy="175" r="4" fill="#ffd166"/>
+  <circle cx="40" cy="205" r="4" fill="#66ffb3"/>
+</svg>

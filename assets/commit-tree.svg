@@ -1,0 +1,15 @@
+<svg width="640" height="280" viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Árvore de commits</text>
+  <circle cx="100" cy="120" r="12" fill="#ff7849"/><text x="96" y="150" fill="#cde3ff" font-size="12">A</text>
+  <circle cx="180" cy="120" r="12" fill="#ff7849"/><text x="176" y="150" fill="#cde3ff" font-size="12">B</text>
+  <circle cx="260" cy="120" r="12" fill="#ff7849"/><text x="256" y="150" fill="#cde3ff" font-size="12">C</text>
+  <circle cx="340" cy="90" r="12" fill="#ffb86c"/><text x="334" y="120" fill="#cde3ff" font-size="12">D1</text>
+  <circle cx="340" cy="150" r="12" fill="#ffb86c"/><text x="334" y="180" fill="#cde3ff" font-size="12">D2</text>
+  <line x1="112" y1="120" x2="168" y2="120" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="192" y1="120" x2="248" y2="120" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="260" y1="120" x2="328" y2="90" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="260" y1="120" x2="328" y2="150" stroke="#9ad1ff" stroke-width="2"/>
+  <text x="380" y="95" fill="#cde3ff" font-size="12">feature</text>
+  <text x="380" y="155" fill="#cde3ff" font-size="12">main</text>
+</svg>

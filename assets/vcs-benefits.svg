@@ -1,0 +1,8 @@
+<svg width="640" height="260" viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18" font-family="Arial">Benefícios do Controle de Versão</text>
+  <text x="20" y="80" fill="#cde3ff" font-size="13" font-family="Arial">• Histórico e recuperação</text>
+  <text x="20" y="110" fill="#cde3ff" font-size="13" font-family="Arial">• Trabalho em equipe sem conflitos</text>
+  <text x="20" y="140" fill="#cde3ff" font-size="13" font-family="Arial">• Auditoria de mudanças</text>
+  <text x="20" y="170" fill="#cde3ff" font-size="13" font-family="Arial">• Integração com CI/CD</text>
+</svg>

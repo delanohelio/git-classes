@@ -1,0 +1,7 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18">Modos do reset</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">--soft: mantém stage + working</text>
+  <text x="40" y="120" fill="#cde3ff" font-size="13">--mixed: limpa stage, mantém working</text>
+  <text x="40" y="150" fill="#cde3ff" font-size="13">--hard: descarta tudo</text>
+</svg>

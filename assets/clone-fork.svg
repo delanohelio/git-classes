@@ -1,0 +1,7 @@
+<svg width="640" height="280" viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Clone e Fork</text>
+  <text x="40" y="80" fill="#cde3ff" font-size="13">clone: baixa um repositório existente</text>
+  <text x="40" y="110" fill="#cde3ff" font-size="13">fork: cria uma cópia no seu usuário</text>
+  <text x="40" y="140" fill="#ffd166" font-size="13">upstream: repositório original</text>
+</svg>

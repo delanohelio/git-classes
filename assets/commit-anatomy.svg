@@ -1,0 +1,8 @@
+<svg width="680" height="280" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Anatomia de um Commit</text>
+  <text x="40" y="80" fill="#cde3ff" font-size="13">• Hash (ID)</text>
+  <text x="40" y="110" fill="#cde3ff" font-size="13">• Autor & Data</text>
+  <text x="40" y="140" fill="#cde3ff" font-size="13">• Mensagem (título e corpo)</text>
+  <text x="40" y="170" fill="#cde3ff" font-size="13">• Árvores e blobs (conteúdo)</text>
+</svg>

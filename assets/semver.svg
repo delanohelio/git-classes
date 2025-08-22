@@ -1,0 +1,6 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18">SemVer</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">MAJOR.MINOR.PATCH</text>
+  <text x="40" y="120" fill="#cde3ff" font-size="13">Ex: 1.2.3</text>
+</svg>

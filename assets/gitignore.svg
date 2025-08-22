@@ -1,0 +1,8 @@
+<svg width="640" height="260" viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18" font-family="Arial">.gitignore</text>
+  <text x="20" y="80" fill="#cde3ff" font-size="14" font-family="Arial">Ignorar arquivos gerados:</text>
+  <text x="40" y="110" fill="#ffd166" font-size="13" font-family="Arial">node_modules/</text>
+  <text x="40" y="130" fill="#ffd166" font-size="13" font-family="Arial">build/</text>
+  <text x="40" y="150" fill="#ffd166" font-size="13" font-family="Arial">.env</text>
+</svg>

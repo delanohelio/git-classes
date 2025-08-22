@@ -1,0 +1,6 @@
+<svg width="700" height="280" viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="280" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18">Fluxo com Upstream</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">origin ➜ seu fork</text>
+  <text x="40" y="120" fill="#cde3ff" font-size="13">upstream ➜ projeto original</text>
+</svg>

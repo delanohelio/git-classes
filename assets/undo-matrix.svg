@@ -1,0 +1,8 @@
+<svg width="680" height="280" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Como desfazer?</text>
+  <text x="40" y="80" fill="#cde3ff" font-size="13">• Working dir: git restore arquivo</text>
+  <text x="40" y="110" fill="#cde3ff" font-size="13">• Staging: git restore --staged arquivo</text>
+  <text x="40" y="140" fill="#cde3ff" font-size="13">• Commit público: git revert</text>
+  <text x="40" y="170" fill="#cde3ff" font-size="13">• Local antes do push: git reset</text>
+</svg>

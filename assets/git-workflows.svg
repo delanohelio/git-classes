@@ -1,0 +1,13 @@
+<svg width="680" height="320" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="320" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Workflows</text>
+  <rect x="40" y="60" width="280" height="220" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="60" y="90" fill="#cde3ff" font-size="14">GitHub Flow</text>
+  <text x="60" y="115" fill="#cde3ff" font-size="12">• main sempre deployável</text>
+  <text x="60" y="135" fill="#cde3ff" font-size="12">• feature branch + PR</text>
+  <text x="60" y="155" fill="#cde3ff" font-size="12">• revisão e merge</text>
+  <rect x="360" y="60" width="280" height="220" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="380" y="90" fill="#cde3ff" font-size="14">Git Flow (visão)</text>
+  <text x="380" y="115" fill="#cde3ff" font-size="12">• develop, release, hotfix</text>
+  <text x="380" y="135" fill="#cde3ff" font-size="12">• útil para versões/lançamentos</text>
+</svg>

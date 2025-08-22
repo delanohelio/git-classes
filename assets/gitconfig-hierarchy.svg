@@ -1,0 +1,7 @@
+<svg width="680" height="260" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18" font-family="Arial">Hierarquia de Configurações</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">system (menor prioridade)</text>
+  <text x="40" y="120" fill="#cde3ff" font-size="13">global (~/.gitconfig)</text>
+  <text x="40" y="150" fill="#cde3ff" font-size="13">local (.git/config) — maior prioridade</text>
+</svg>

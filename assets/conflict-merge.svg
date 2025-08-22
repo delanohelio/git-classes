@@ -1,0 +1,14 @@
+<svg width="640" height="300" viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="300" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Conflito de Merge</text>
+  <circle cx="140" cy="140" r="8" fill="#ffd166"/>
+  <circle cx="220" cy="140" r="8" fill="#ffd166"/>
+  <circle cx="300" cy="100" r="8" fill="#ff7849"/>
+  <circle cx="300" cy="180" r="8" fill="#ff7849"/>
+  <line x1="148" y1="140" x2="212" y2="140" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="228" y1="140" x2="292" y2="100" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="228" y1="140" x2="292" y2="180" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="308" y1="100" x2="380" y2="140" stroke="#ff4d6d" stroke-width="3"/>
+  <line x1="308" y1="180" x2="380" y2="140" stroke="#ff4d6d" stroke-width="3"/>
+  <text x="390" y="145" fill="#ff9fb3" font-size="12">Conflito</text>
+</svg>

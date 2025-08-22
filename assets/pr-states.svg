@@ -1,0 +1,5 @@
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18">Estados de PR</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">Open • Draft • Changes requested • Approved • Merged • Closed</text>
+</svg>

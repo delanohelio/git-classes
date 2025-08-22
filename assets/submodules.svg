@@ -1,0 +1,8 @@
+<svg width="660" height="280" viewBox="0 0 660 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="660" height="280" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Submódulos</text>
+  <rect x="40" y="60" width="260" height="180" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="60" y="100" fill="#cde3ff" font-size="13">Repo principal</text>
+  <rect x="320" y="100" width="260" height="120" fill="#243b55" stroke="#9ad1ff"/>
+  <text x="340" y="140" fill="#cde3ff" font-size="13">Submódulo em libs/</text>
+</svg>

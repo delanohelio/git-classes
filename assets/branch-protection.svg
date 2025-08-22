@@ -1,0 +1,6 @@
+<svg width="640" height="260" viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18" font-family="Arial">Proteção de Branch</text>
+  <text x="20" y="80" fill="#cde3ff" font-size="13">Regras: review obrigatório, status checks, sem force-push</text>
+  <text x="20" y="110" fill="#ffd166" font-size="13">Settings » Branches » Protection rules</text>
+</svg>

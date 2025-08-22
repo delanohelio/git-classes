@@ -1,0 +1,7 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="260" fill="#0b1020"/>
+  <text x="20" y="40" fill="#fff" font-size="18">Marcadores de conflito</text>
+  <text x="40" y="90" fill="#cde3ff" font-size="13">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</text>
+  <text x="40" y="120" fill="#cde3ff" font-size="13">=======</text>
+  <text x="40" y="150" fill="#cde3ff" font-size="13">&gt;&gt;&gt;&gt;&gt;&gt;&gt; feature/branch</text>
+</svg>

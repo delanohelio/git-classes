@@ -1,0 +1,22 @@
+<svg width="680" height="320" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="320" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Merge vs Rebase</text>
+  <text x="40" y="60" fill="#cde3ff" font-size="14">Merge:</text>
+  <circle cx="120" cy="110" r="8" fill="#ffd166"/>
+  <circle cx="200" cy="110" r="8" fill="#ffd166"/>
+  <circle cx="280" cy="70" r="8" fill="#ff7849"/>
+  <circle cx="280" cy="150" r="8" fill="#ff7849"/>
+  <line x1="128" y1="110" x2="192" y2="110" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="208" y1="110" x2="272" y2="70" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="208" y1="110" x2="272" y2="150" stroke="#9ad1ff" stroke-width="2"/>
+  <circle cx="360" cy="110" r="8" fill="#66ffb3"/>
+  <line x1="288" y1="70" x2="352" y2="110" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="288" y1="150" x2="352" y2="110" stroke="#9ad1ff" stroke-width="2"/>
+  <text x="40" y="200" fill="#cde3ff" font-size="14">Rebase:</text>
+  <circle cx="120" cy="240" r="8" fill="#ffd166"/>
+  <circle cx="200" cy="240" r="8" fill="#ffd166"/>
+  <circle cx="280" cy="240" r="8" fill="#ff7849"/>
+  <circle cx="360" cy="240" r="8" fill="#ff7849"/>
+  <line x1="128" y1="240" x2="192" y2="240" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="208" y1="240" x2="352" y2="240" stroke="#9ad1ff" stroke-width="2"/>
+</svg>

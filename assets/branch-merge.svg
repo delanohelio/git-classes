@@ -1,0 +1,18 @@
+<svg width="640" height="300" viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="300" fill="#0b1020"/>
+  <text x="20" y="30" fill="#fff" font-size="18" font-family="Arial">Branches e Merge</text>
+  <circle cx="120" cy="140" r="10" fill="#ffd166"/>
+  <circle cx="200" cy="140" r="10" fill="#ffd166"/>
+  <circle cx="280" cy="140" r="10" fill="#ffd166"/>
+  <line x1="130" y1="140" x2="190" y2="140" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="210" y1="140" x2="270" y2="140" stroke="#9ad1ff" stroke-width="2"/>
+  <circle cx="280" cy="80" r="10" fill="#ff7849"/>
+  <circle cx="360" cy="80" r="10" fill="#ff7849"/>
+  <line x1="280" y1="130" x2="280" y2="90" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="290" y1="80" x2="350" y2="80" stroke="#9ad1ff" stroke-width="2"/>
+  <line x1="360" y1="80" x2="420" y2="140" stroke="#9ad1ff" stroke-width="2"/>
+  <circle cx="420" cy="140" r="10" fill="#66ffb3"/>
+  <text x="100" y="170" fill="#cde3ff" font-size="12">main</text>
+  <text x="270" y="60" fill="#cde3ff" font-size="12">feature</text>
+  <text x="400" y="170" fill="#cde3ff" font-size="12">merge</text>
+</svg>
